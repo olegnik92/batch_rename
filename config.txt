@@ -1,0 +1,4 @@
+./test_dir
+^file=>new_file
+2=>4
+3=>
